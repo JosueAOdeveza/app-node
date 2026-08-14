@@ -1,11 +1,11 @@
 const Footer = () => {
   return (
-    <div>
+    <div className="bg-sky-300 py-10">
       <div>
-        <span></span>
+        <span>Termos</span>
         <span>
-          <span></span>
-          <span></span>
+          <span>Info</span>
+          <span>Politicas</span>
         </span>
       </div>
     </div>
